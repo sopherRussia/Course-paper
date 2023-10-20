@@ -1,0 +1,18 @@
+﻿<Window x:Class="Course_paper.admin_window"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Course_paper"
+        mc:Ignorable="d"
+        Title="admin_window" Height="350" Width="300">
+    <Grid>
+        <Button Content="Назад" HorizontalAlignment="Left" Margin="194,221,0,0" VerticalAlignment="Top"/>
+        <Button Content="Выход" HorizontalAlignment="Left" Margin="29,221,0,0" VerticalAlignment="Top"/>
+        <Button Content="Добавить новое оборудование" HorizontalAlignment="Left" Margin="29,70,0,0" VerticalAlignment="Top"/>
+        <Button Content="Просмотр пользователей " HorizontalAlignment="Left" Margin="29,107,0,0" VerticalAlignment="Top"/>
+        <Label Content="Меню" HorizontalAlignment="Left" Margin="29,20,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="20"/>
+        <Button Content="Редактирование данных об оборудовании" HorizontalAlignment="Left" Margin="29,147,0,0" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>

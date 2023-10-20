@@ -1,0 +1,20 @@
+C:\Users\User\source\repos\Course paper\Course paper\obj\Debug\Course paper.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Course paper\Course paper\obj\Debug\App.g.cs
+C:\Users\User\source\repos\Course paper\Course paper\obj\Debug\Course paper_MarkupCompile.cache
+C:\Users\User\source\repos\Course paper\Course paper\bin\Debug\Course paper.exe.config
+C:\Users\User\source\repos\Course paper\Course paper\bin\Debug\Course paper.exe
+C:\Users\User\source\repos\Course paper\Course paper\bin\Debug\Course paper.pdb
+C:\Users\User\source\repos\Course paper\Course paper\obj\Debug\MainWindow.g.cs
+C:\Users\User\source\repos\Course paper\Course paper\obj\Debug\Course paper_MarkupCompile.lref
+C:\Users\User\source\repos\Course paper\Course paper\obj\Debug\MainWindow.baml
+C:\Users\User\source\repos\Course paper\Course paper\obj\Debug\Course paper.g.resources
+C:\Users\User\source\repos\Course paper\Course paper\obj\Debug\Course_paper.Properties.Resources.resources
+C:\Users\User\source\repos\Course paper\Course paper\obj\Debug\Course paper.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Course paper\Course paper\obj\Debug\Course paper.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Course paper\Course paper\obj\Debug\Course paper.exe
+C:\Users\User\source\repos\Course paper\Course paper\obj\Debug\Course paper.pdb
+C:\Users\User\source\repos\Course paper\Course paper\obj\Debug\Add_Equipment.g.cs
+C:\Users\User\source\repos\Course paper\Course paper\obj\Debug\admin_window.g.cs
+C:\Users\User\source\repos\Course paper\Course paper\obj\Debug\By_the_user.g.cs
+C:\Users\User\source\repos\Course paper\Course paper\obj\Debug\Editing.g.cs
+C:\Users\User\source\repos\Course paper\Course paper\obj\Debug\the_user_window.g.cs
